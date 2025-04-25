@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node143" hassounds="0" appversion="7.1.7" apprev="20981">
+  <panorama hideabout="1" id="node116">
+    <input overlap="1" height="1750" leveltileurl="tiles/node116/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-174.34" projection="4" tilt="-3.01" fov="63"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node116" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="68.4" x_floorplan_percent="52.0286" x="1.25038" mapid="FloorPlan01" y="-1.64383"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-353.27" description="" id="Point01" url="{node117}" tilt="-61.2" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-355.48" description="" id="Point02" url="{node124}" tilt="26.14" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-37.95" description="" id="Point03" url="{node118}" tilt="-17.26" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-306.52" description="" id="Point04" url="{node119}" tilt="-16.2" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-313.57" description="" id="Point05" url="{node120}" tilt="6.86" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-32.69" description="" id="Point06" url="{node121}" tilt="5.01" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-176.89" description="" id="Point07" url="{node136}" tilt="30.93" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-104.01" description="" id="Point08" url="{node128}" tilt="-28.16" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-246.53" description="" id="Point09" url="{node130}" tilt="-26.58" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-236.43" description="" id="Point10" url="{node142}" tilt="-0.3" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-354.55" description="" id="Point11" url="{node143}" tilt="4.53" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-117.01" description="" id="Point12" url="{node144}" tilt="-1.24" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node119">
+    <input overlap="1" height="1750" leveltileurl="tiles/node119/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-35.3" projection="4" tilt="-0.4" fov="70"/>
+      <flyin pan="-25.79" projection="4" tilt="-0.3" fov="70"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node119" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="52.8571" x_floorplan_percent="42.3429" x="1.01761" mapid="FloorPlan01" y="-1.27029"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-107.03" description="" id="Point01" url="{node117}" tilt="-0.48" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-84.04" description="" id="Point02" url="{node118}" tilt="-0.48" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-332.71" description="" id="Point04" url="{node120}" tilt="40.54" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-75.72" description="" id="Point05" url="{node124}" tilt="54.42" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-359.79" description="" id="Point03" url="{node125}" tilt="0.75" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-177.74" description="" id="Point06" url="{node130}" tilt="0.04" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-83.35" description="" id="Point07" url="{node143}" tilt="27.64" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node117">
+    <input overlap="1" height="1750" leveltileurl="tiles/node117/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-178.55" projection="4" tilt="0.42" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node117" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="56.8857" x_floorplan_percent="52.0286" x="1.25038" mapid="FloorPlan01" y="-1.36711"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-315.67" description="" id="Point01" url="{node119}" tilt="-0.89" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-46.55" description="" id="Point02" url="{node118}" tilt="-0.61" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-316.34" description="" id="Point03" url="{node120}" tilt="16.99" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-42.51" description="" id="Point04" url="{node121}" tilt="16.05" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-176.86" description="" id="Point05" url="{node116}" tilt="51.92" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-111.39" description="" id="Point06" url="{node128}" tilt="-2.02" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-247.53" description="" id="Point07" url="{node130}" tilt="-1.67" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-358.9" description="" id="Point08" url="{node143}" tilt="24.34" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-358.84" description="" id="Point09" url="{node124}" tilt="44.02" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-121.39" description="" id="Point10" url="{node144}" tilt="20.75" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node143">
+    <input overlap="1" height="1750" leveltileurl="tiles/node143/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="3" projection="4" tilt="-3" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX_GAZEBO_WITHOUT_GARAGE_2floor_2windows" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node143" datetime="" customnodeid="" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-355.94" description="" id="Point01" url="{node117}" tilt="-30.29" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-250.82" description="" id="Point02" url="{node118}" tilt="-24.39" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-99.1" description="" id="Point03" url="{node119}" tilt="-22.98" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-355.13" description="" id="Point04" url="{node136}" tilt="20.48" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-36.66" description="" id="Point05" url="{node142}" tilt="-1.47" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-355.02" description="" id="Point06" url="{node116}" tilt="-0.76" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-315.13" description="" id="Point07" url="{node144}" tilt="0.13" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node144">
+    <input overlap="1" height="1750" leveltileurl="tiles/node144/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="4" projection="4" tilt="-3" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX_GAZEBO_WITHOUT_GARAGE_2floor_2windows" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node144" datetime="" customnodeid="" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-50.85" description="" id="Point01" url="{node143}" tilt="0.64" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-30.85" description="" id="Point02" url="{node116}" tilt="-0.36" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-353.57" description="" id="Point03" url="{node136}" tilt="29.45" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-311.64" description="" id="Point04" url="{node134}" tilt="2.64" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-354.4" description="" id="Point05" url="{node135}" tilt="-43.93" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-296.43" description="" id="Point06" url="{node127}" tilt="-28.77" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-353.72" description="" id="Point07" url="{node142}" tilt="6.35" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-61.59" description="" id="Point08" url="{node124}" tilt="16.7" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-85.28" description="" id="Point09" url="{node121}" tilt="0.47" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node118">
+    <input overlap="1" height="1750" leveltileurl="tiles/node118/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="33.42" projection="4" tilt="-1.3" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node118" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="53.2286" x_floorplan_percent="60.8" x="1.46118" mapid="FloorPlan01" y="-1.27922"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-249.61" description="" id="Point01" url="{node117}" tilt="0.01" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-274.79" description="" id="Point02" url="{node119}" tilt="-1.06" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-355.96" description="" id="Point03" url="{node121}" tilt="16.09" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-311.66" description="" id="Point04" url="{node124}" tilt="69.17" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-180.57" description="" id="Point05" url="{node128}" tilt="0.05" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-272.96" description="" id="Point06" url="{node143}" tilt="30.49" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-180.89" description="" id="Point07" url="{node144}" tilt="28.18" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node120">
+    <input overlap="1" height="1750" leveltileurl="tiles/node120/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="55" projection="4" tilt="-5" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node120" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="41.3143" x_floorplan_percent="36.6571" x="0.880966" mapid="FloorPlan01" y="-0.992889"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-74.74" description="" id="Point01" url="{node119}" tilt="-14.59" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-275.71" description="" id="Point02" url="{node123}" tilt="-9.45" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-295.29" description="" id="Point03" url="{node122}" tilt="2.5" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-338.67" description="" id="Point04" url="{node121}" tilt="9.17" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-19.79" description="" id="Point05" url="{node124}" tilt="47.31" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-283.97" description="" id="Point06" url="{node125}" tilt="-23.54" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-310.87" description="" id="Point07" url="{node126}" tilt="-16.23" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-291.58" description="" id="Point08" url="{node139}" tilt="-12.7" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-92" description="" id="Point09" url="{node142}" tilt="4.15" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node121">
+    <input overlap="1" height="1750" leveltileurl="tiles/node121/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="5.49" projection="4" tilt="-4.27" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node121" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="40.7714" x_floorplan_percent="68.6571" x="1.65001" mapid="FloorPlan01" y="-0.979843"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-68.5" description="" id="Point01" url="{node122}" tilt="0.99" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-354.29" description="" id="Point02" url="{node124}" tilt="38" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-283" description="" id="Point03" url="{node118}" tilt="-13.95" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-355.29" description="" id="Point04" url="{node120}" tilt="8.73" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-265.41" description="" id="Point05" url="{node144}" tilt="1.05" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node122">
+    <input overlap="1" height="1750" leveltileurl="tiles/node122/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="5" projection="4" tilt="0" fov="60"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node122" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="11.4286" x_floorplan_percent="53.1143" x="1.27647" mapid="FloorPlan01" y="-0.274658"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-298.19" description="" id="Point02" url="{node118}" tilt="-17.28" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-298.39" description="" id="Point03" url="{node121}" tilt="4.13" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-30.89" description="" id="Point04" url="{node120}" tilt="3.87" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-45.58" description="" id="Point05" url="{node123}" tilt="-16.51" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-340.04" description="" id="Point06" url="{node124}" tilt="29.65" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-20.57" description="" id="Point07" url="{node125}" tilt="-10.17" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-353.35" description="" id="Point08" url="{node126}" tilt="-20.85" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-354.08" description="" id="Point01" url="{node140}" tilt="0.26" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-25.73" description="" id="Point09" url="{node139}" tilt="-28.05" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-52.49" description="" id="Point10" url="{node137}" tilt="-17.74" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-30.91" description="" id="Point11" url="{node138}" tilt="-12.78" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-346.92" description="" id="Point12" url="{node141}" tilt="-52.1" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node123">
+    <input overlap="1" height="1750" leveltileurl="tiles/node123/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="27" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node123" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="21.2" x_floorplan_percent="44.6" x="1.07185" mapid="FloorPlan01" y="-0.509491"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-22.83" description="" id="Point02" url="{node120}" tilt="13.02" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-310.8" description="" id="Point03" url="{node124}" tilt="24.53" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-251.33" description="" id="Point04" url="{node122}" tilt="24.44" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-358.69" description="" id="Point01" url="{node125}" tilt="0.42" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-292.3" description="" id="Point05" url="{node126}" tilt="-0.88" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-343.53" description="" id="Point06" url="{node138}" tilt="-0.2" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-325.31" description="" id="Point07" url="{node140}" tilt="10.11" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-267.46" description="" id="Point08" url="{node139}" tilt="-1.23" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-134.07" description="" id="Point09" url="{node137}" tilt="-0.93" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-222.85" description="" id="Point10" url="{node137}" tilt="-1.29" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node125">
+    <input overlap="1" height="1750" leveltileurl="tiles/node125/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="1.73" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node125" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="30.8571" x_floorplan_percent="43.9429" x="1.05606" mapid="FloorPlan01" y="-0.741577"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-268.24" description="" id="Point01" url="{node123}" tilt="-1.82" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-308.26" description="" id="Point02" url="{node122}" tilt="12.27" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-89.51" description="" id="Point03" url="{node119}" tilt="0.34" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-142.34" description="" id="Point04" url="{node120}" tilt="40" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-1.84" description="" id="Point05" url="{node124}" tilt="61.4" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-347.55" description="" id="Point06" url="{node126}" tilt="-0.75" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-32.65" description="" id="Point07" url="{node140}" tilt="14.27" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-303.56" description="" id="Point08" url="{node139}" tilt="-1.51" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-286.09" description="" id="Point09" url="{node138}" tilt="-2.24" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node126">
+    <input overlap="1" height="1750" leveltileurl="tiles/node126/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node126" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="27.5714" x_floorplan_percent="52.2571" x="1.25587" mapid="FloorPlan01" y="-0.662613"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-72.74" description="" id="Point01" url="{node125}" tilt="-1.22" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-40.34" description="" id="Point02" url="{node119}" tilt="-0.82" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-123.74" description="" id="Point03" url="{node123}" tilt="-1.46" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-181.13" description="" id="Point04" url="{node122}" tilt="14.07" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-349.11" description="" id="Point05" url="{node124}" tilt="58.32" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-356.96" description="" id="Point06" url="{node140}" tilt="16.36" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-95.77" description="" id="Point07" url="{node138}" tilt="-1.14" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-132.63" description="" id="Point08" url="{node137}" tilt="-1.16" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-151.55" description="" id="Point09" url="{node139}" tilt="-0.92" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-180.18" description="" id="Point10" url="{node141}" tilt="-2.1" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node137">
+    <input overlap="1" height="1750" leveltileurl="tiles/node137/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0.95" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX_GAZEBO" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node137" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="16.6571" x_floorplan_percent="44.1714" x="1.06155" mapid="FloorPlan01" y="-0.400314"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-88.83" description="" id="Point01" url="{node139}" tilt="1.93" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-110.93" description="" id="Point02" url="{node123}" tilt="2.11" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-243.87" description="" id="Point03" url="{node123}" tilt="0.84" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node138">
+    <input overlap="1" height="1750" leveltileurl="tiles/node138/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="36" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX_GAZEBO" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node138" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="25.4286" x_floorplan_percent="44.4857" x="1.06911" mapid="FloorPlan01" y="-0.611115"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-348.9" description="" id="Point01" url="{node123}" tilt="1.5" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-0.23" description="" id="Point02" url="{node137}" tilt="1.66" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-338.16" description="" id="Point03" url="{node137}" tilt="1.61" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-35.28" description="" id="Point04" url="{node139}" tilt="1.5" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-94.46" description="" id="Point05" url="{node126}" tilt="1.31" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-187.38" description="" id="Point06" url="{node125}" tilt="-1.22" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-49.55" description="" id="Point07" url="{node122}" tilt="20.29" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-100.43" description="" id="Point08" url="{node124}" tilt="43.03" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-207.4" description="" id="Point09" url="{node120}" tilt="19.03" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-54.55" description="" id="Point10" url="{node141}" tilt="1.75" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node139">
+    <input overlap="1" height="1750" leveltileurl="tiles/node139/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="96" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX_GAZEBO" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node139" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="21.4" x_floorplan_percent="49.2857" x="1.18446" mapid="FloorPlan01" y="-0.514297"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-288.08" description="" id="Point01" url="{node137}" tilt="2.23" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-220.94" description="" id="Point02" url="{node138}" tilt="1.57" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-264.28" description="" id="Point03" url="{node123}" tilt="2.02" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-205.19" description="" id="Point04" url="{node125}" tilt="1.49" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-134.23" description="" id="Point05" url="{node126}" tilt="2.36" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-157.85" description="" id="Point06" url="{node140}" tilt="12.24" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-155.3" description="" id="Point07" url="{node124}" tilt="41.16" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-213.73" description="" id="Point08" url="{node120}" tilt="22.18" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-47.54" description="" id="Point09" url="{node122}" tilt="34.98" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-44.96" description="" id="Point10" url="{node141}" tilt="1.14" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node140">
+    <input overlap="1" height="1750" leveltileurl="tiles/node140/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="35" projection="4" tilt="-15" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX_GAZEBO" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node140" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="35.2857" x_floorplan_percent="52.2571" x="1.25587" mapid="FloorPlan01" y="-0.848007"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-359.08" description="" id="Point01" url="{node126}" tilt="-31.41" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-342.62" description="" id="Point02" url="{node139}" tilt="-15.17" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-326.27" description="" id="Point03" url="{node123}" tilt="-10.49" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-313.87" description="" id="Point04" url="{node123}" tilt="-12.75" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-298.04" description="" id="Point05" url="{node125}" tilt="-15.76" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-358.6" description="" id="Point06" url="{node122}" tilt="4.63" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-60.19" description="" id="Point07" url="{node124}" tilt="52.86" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-358.93" description="" id="Point08" url="{node141}" tilt="-10.36" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node141">
+    <input overlap="1" height="1750" leveltileurl="tiles/node141/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX_GAZEBO" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node141" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="18.3714" x_floorplan_percent="52.3714" x="1.25862" mapid="FloorPlan01" y="-0.441513"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-359.44" description="" id="Point01" url="{node126}" tilt="-4.78" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-359.03" description="" id="Point02" url="{node140}" tilt="10.25" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-359.3" description="" id="Point03" url="{node124}" tilt="31.4" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-68.77" description="" id="Point04" url="{node139}" tilt="-6.3" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-49.42" description="" id="Point05" url="{node138}" tilt="0.65" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-36.07" description="" id="Point06" url="{node125}" tilt="-0.1" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-35.94" description="" id="Point07" url="{node120}" tilt="15.45" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-174.25" description="" id="Point08" url="{node122}" tilt="49" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node124">
+    <input overlap="1" height="1750" leveltileurl="tiles/node124/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="95" projection="4" tilt="-88" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node124" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="43" x_floorplan_percent="52.4" x="1.25931" mapid="FloorPlan01" y="-1.0334"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-176.23" description="" id="Point01" url="{node116}" tilt="-31.29" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-176.66" description="" id="Point02" url="{node117}" tilt="-39.38" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-354.62" description="" id="Point03" url="{node122}" tilt="-36.04" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-327.39" description="" id="Point04" url="{node123}" tilt="-44.05" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-246.07" description="" id="Point05" url="{node120}" tilt="-32.66" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-113.59" description="" id="Point06" url="{node121}" tilt="-41.22" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-150.22" description="" id="Point07" url="{node118}" tilt="-43.51" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-204.37" description="" id="Point08" url="{node119}" tilt="-43.73" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-311.35" description="" id="Point09" url="{node125}" tilt="-58.48" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-351.72" description="" id="Point10" url="{node126}" tilt="-61.32" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-176.27" description="" id="Point11" url="{node136}" tilt="-20.03" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-159.04" description="" id="Point12" url="{node128}" tilt="-32.61" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-193.16" description="" id="Point13" url="{node130}" tilt="-31.85" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-345.13" description="" id="Point14" url="{node140}" tilt="-77" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-319.65" description="" id="Point15" url="{node138}" tilt="-50.15" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-340.55" description="" id="Point16" url="{node139}" tilt="-50.55" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-353.29" description="" id="Point17" url="{node141}" tilt="-45.9" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-203.49" description="" id="Point18" url="{node142}" tilt="-24.44" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-177.48" description="" id="Point19" url="{node143}" tilt="-49.97" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-153.36" description="" id="Point20" url="{node144}" tilt="-23.89" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node127">
+    <input overlap="1" height="1750" leveltileurl="tiles/node127/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node127" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="81.6286" x_floorplan_percent="60.4857" x="1.45363" mapid="FloorPlan01" y="-1.96175"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-258.3" description="" id="Point02" url="{node134}" tilt="15.2" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-351.44" description="" id="Point01" url="{node135}" tilt="1.86" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-294.82" description="" id="Point03" url="{node136}" tilt="48.94" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-41.38" description="" id="Point04" url="{node144}" tilt="36.78" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node128">
+    <input overlap="1" height="1750" leveltileurl="tiles/node128/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node128" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="67.4286" x_floorplan_percent="60" x="1.44196" mapid="FloorPlan01" y="-1.62048"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-82.5" description="" id="Point02" url="{node117}" tilt="0.1" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-178.83" description="" id="Point03" url="{node118}" tilt="-0.59" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-353.36" description="" id="Point01" url="{node135}" tilt="1.04" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-32.94" description="" id="Point04" url="{node136}" tilt="50.82" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-340.6" description="" id="Point05" url="{node144}" tilt="36.88" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-82.47" description="" id="Point06" url="{node116}" tilt="33.12" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node130">
+    <input overlap="1" height="1750" leveltileurl="tiles/node130/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="25" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node130" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="66.6571" x_floorplan_percent="43.1714" x="1.03752" mapid="FloorPlan01" y="-1.60194"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-350.36" description="" id="Point01" url="{node131}" tilt="0.21" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-265.93" description="" id="Point02" url="{node117}" tilt="-0.25" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-175.89" description="" id="Point03" url="{node119}" tilt="0.14" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-316.5" description="" id="Point04" url="{node136}" tilt="53.15" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-13.45" description="" id="Point05" url="{node142}" tilt="35.61" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-266.22" description="" id="Point06" url="{node116}" tilt="29.19" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node131">
+    <input overlap="1" height="1750" leveltileurl="tiles/node131/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="5" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node131" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="72.3429" x_floorplan_percent="42.3143" x="1.01692" mapid="FloorPlan01" y="-1.73859"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-264.65" description="" id="Point01" url="{node130}" tilt="-2.3" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-86.48" description="" id="Point02" url="{node132}" tilt="-2.02" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-12.05" description="" id="Point03" url="{node136}" tilt="72.02" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-160.89" description="" id="Point04" url="{node142}" tilt="51.35" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-288.85" description="" id="Point05" url="{node143}" tilt="13.26" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node132">
+    <input overlap="1" height="1750" leveltileurl="tiles/node132/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node132" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="78" x_floorplan_percent="42.6" x="1.02379" mapid="FloorPlan01" y="-1.87454"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-264.92" description="" id="Point01" url="{node131}" tilt="0.09" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-28.11" description="" id="Point02" url="{node134}" tilt="20.67" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-319.97" description="" id="Point03" url="{node136}" tilt="73.23" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-195.94" description="" id="Point04" url="{node142}" tilt="47.99" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-357.93" description="" id="Point05" url="{node144}" tilt="19.68" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node142">
+    <input overlap="1" height="1750" leveltileurl="tiles/node142/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="5" projection="4" tilt="-15" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX_GAZEBO_WITHOUT_GARAGE_1floor_2windows" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node142" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="71.4571" x_floorplan_percent="38.8286" x="0.933151" mapid="FloorPlan01" y="-1.7173"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-357.88" description="" id="Point01" url="{node131}" tilt="-68.11" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-58.62" description="" id="Point02" url="{node132}" tilt="-47.49" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-270.71" description="" id="Point03" url="{node130}" tilt="-33.95" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-56.11" description="" id="Point04" url="{node134}" tilt="11.27" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-357.06" description="" id="Point05" url="{node136}" tilt="39.89" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-304.63" description="" id="Point06" url="{node116}" tilt="-15.19" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-291.46" description="" id="Point07" url="{node124}" tilt="14.47" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-292.74" description="" id="Point08" url="{node143}" tilt="-0.15" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-356.01" description="" id="Point09" url="{node144}" tilt="10.37" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node134">
+    <input overlap="1" height="1750" leveltileurl="tiles/node134/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="4" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node134" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="82.5714" x_floorplan_percent="50.7143" x="1.2188" mapid="FloorPlan01" y="-1.98441"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-292.74" description="" id="Point01" url="{node132}" tilt="-30.85" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-66.3" description="" id="Point02" url="{node127}" tilt="-34.12" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-356.83" description="" id="Point03" url="{node136}" tilt="24.24" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-304.79" description="" id="Point04" url="{node142}" tilt="-0.11" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-355.48" description="" id="Point05" url="{node143}" tilt="-0.68" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-67.46" description="" id="Point06" url="{node144}" tilt="-2.95" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node135">
+    <input overlap="1" height="1750" leveltileurl="tiles/node135/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node135" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="74.8" x_floorplan_percent="60.4" x="1.45157" mapid="FloorPlan01" y="-1.79764"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-352.76" description="" id="Point01" url="{node127}" tilt="-0.39" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-174.18" description="" id="Point02" url="{node128}" tilt="-1.18" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-68.98" description="" id="Point03" url="{node136}" tilt="77.43" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-153.6" description="" id="Point04" url="{node143}" tilt="12.28" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-291.47" description="" id="Point05" url="{node144}" tilt="50.93" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node136">
+    <input overlap="1" height="1750" leveltileurl="tiles/node136/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1750" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="1750" predecode="0" preload="0" width="1750"/>
+      <level height="875" predecode="0" preload="0" width="875"/>
+      <level height="437" predecode="1" preload="1" width="437"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata copyright="" title="" tags="PARKVILLE4_ALEX" longitude="" heading="0" description="" comment="" info="" source="" nodeid="node136" datetime="" customnodeid="" author="" latitude="">
+      <mapcoords y_floorplan_percent="73.4286" x_floorplan_percent="51.7429" x="1.24352" mapid="FloorPlan01" y="-1.76468"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" background="1" height="20" borderalpha="1" enabled="0" borderradius="1" width="180" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x595959" mode="2" borderalpha="1" backgroundcolor="0xffffff"/>
+      <hotspot title="" target="" pan="-355.74" description="" id="Point01" url="{node117}" tilt="-41.18" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-329.73" description="" id="Point02" url="{node119}" tilt="-28.46" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-21.25" description="" id="Point03" url="{node118}" tilt="-27.06" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-48.42" description="" id="Point04" url="{node128}" tilt="-45.3" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-299.71" description="" id="Point05" url="{node130}" tilt="-45.29" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-174.7" description="" id="Point06" url="{node134}" tilt="-34.98" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-355.44" description="" id="Point07" url="{node124}" tilt="-3.02" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-269.03" description="" id="Point08" url="{node142}" tilt="-30.81" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-355.38" description="" id="Point09" url="{node143}" tilt="-18.88" skinid="ht_node"/>
+      <hotspot title="" target="" pan="-85.75" description="" id="Point10" url="{node144}" tilt="-28.31" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" delay="none" zoomafterinfov="90" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" invertwheel="0" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" sensitivity="8" lockedmouse="0" speedwheel="1" lockedwheel="0" simulatemass="1" invertcontrol="1" contextprojections="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" title="" tags="" description="" comment="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map zoomlevels="5" index="0" title="" tileformat="png" transparent="1" id="FloorPlan01" height="3500" crispedges="0" type="file" width="3500" floorplannorth="359.66" bgcolor="rgba(255, 255, 255, 0)"/>
+</tour>
